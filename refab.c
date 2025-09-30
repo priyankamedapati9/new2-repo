@@ -13,7 +13,7 @@ else
 return n*facto(n-1);
 }*/
 
-
+//fabinocci series
 
 #include<stdio.h>
 int fab(int);
